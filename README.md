@@ -10,7 +10,7 @@ This is simply a portfolio made to display/describe some the works I have comlet
 
 In order to complete this project I installed
 
-*bootstrap- for snippets of code that made up sections of the portfolio.
+*bootstrap- For snippets of code that made up sections of the portfolio.
 
 *"line awesome"- A website containing libraries of icons which I was able to gather a few to use in my portfolio. These can be seen in the projects section.
 
@@ -25,3 +25,5 @@ This portfolio was made as a way for future employers to see the kind of project
 N/A
 
 ## License
+
+N/A
